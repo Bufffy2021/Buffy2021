@@ -1,19 +1,20 @@
-#Red Moon Information
+#Informacion Red Moon
 
-###Requirements
--Python 3.10
--Windows 10
+###Requisitos
+- Python 3.10
+- Windows 10
 
 ###Packpages
-- disagree
+- discord
 - pyautoui
 - requests
-- web socket
--emoji
+- websocket
+- emoji
 - json
--base64
+- base64
 - colorama
 
 ##Credits
-**Maker:** Buffy2021#0001 / Scamm.,ϟ#9705
+**Maker:** Buffy2021#0001  / Scąmm.,ϟ#9705
 **Red Moon:** https://discord.gg/vkPHhuTz2p
+
