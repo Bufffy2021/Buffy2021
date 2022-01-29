@@ -1,5 +1,3 @@
-# Buffy2021
-
 #Red Moon Information
 
 ###Requirements
